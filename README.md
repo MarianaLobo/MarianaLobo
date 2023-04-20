@@ -1,4 +1,7 @@
-###👋
+### ¡Hola! Soy Mariana👋
+
+Soy desarrolladora web junior. 
+
 
 <!--
 **MarianaLobo/MarianaLobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
